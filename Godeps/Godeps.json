@@ -1,0 +1,58 @@
+{
+	"ImportPath": "github.com/sorryforhateyou/gost",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codahale/chacha20",
+			"Rev": "ec07b4f69a3f70b1dd2a8ad77230deb1ba5d6953"
+		},
+		{
+			"ImportPath": "github.com/ginuerzh/gosocks5",
+			"Comment": "0.1-6-gbc931b3",
+			"Rev": "bc931b305d59cdf3d068eacff3c8d81536d3a39f"
+		},
+		{
+			"ImportPath": "github.com/golang/glog",
+			"Rev": "23def4e6c14b4da8ac2ed8007337bc5eb5007998"
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Comment": "v1.0.0-32-g0b847f2",
+			"Rev": "0b847f2facc24ec406130a05bb1bb72d41993b05"
+		},
+		{
+			"ImportPath": "github.com/shadowsocks/shadowsocks-go/shadowsocks",
+			"Comment": "1.1.5-4-g5c9897e",
+			"Rev": "5c9897ecdf623f385ccb8c2c78e32c5256961b41"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/blowfish",
+			"Rev": "3c0d69f1777220f1a1d2ec373cb94a282f03eb42"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/cast5",
+			"Rev": "3c0d69f1777220f1a1d2ec373cb94a282f03eb42"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/salsa20/salsa",
+			"Rev": "3c0d69f1777220f1a1d2ec373cb94a282f03eb42"
+		},
+		{
+			"ImportPath": "golang.org/x/net/http2",
+			"Rev": "f11d7120b19ae21da5715f3e47621736de1b1da9"
+		},
+		{
+			"ImportPath": "golang.org/x/net/http2/hpack",
+			"Rev": "f11d7120b19ae21da5715f3e47621736de1b1da9"
+		},
+		{
+			"ImportPath": "golang.org/x/net/idna",
+			"Rev": "f11d7120b19ae21da5715f3e47621736de1b1da9"
+		},
+		{
+			"ImportPath": "golang.org/x/net/lex/httplex",
+			"Rev": "f11d7120b19ae21da5715f3e47621736de1b1da9"
+		}
+	]
+}
